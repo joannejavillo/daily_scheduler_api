@@ -10,14 +10,14 @@ textarea{
   resize: none;
   color: #000000; 
   border-left: 1px solid black;
-  border-top: 1px solid white;
+  border-top: 2px solid gray;
   padding: 10px;
 }
 
 .jumbotron {
   text-align: center;
   background-color: transparent;
-  color: black;
+  color: purple;
   border-radius: 0;
   border-bottom: 10px solid black;
 }
@@ -85,3 +85,4 @@ textarea{
   font-size: 20px;
   transition: all .3s ease-in-out;
 }
+
