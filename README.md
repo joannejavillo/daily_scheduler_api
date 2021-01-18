@@ -22,7 +22,7 @@
 ---
 ## Screenshots of The Timed Quiz
 
-![screenshot-of-page](./img/daily-scheduler.png)
+![screenshot-of-page] (./img/daily-scheduler.png)
 - image of the scheduler/planner
 
 ## Made By JJavillo @ 2021
